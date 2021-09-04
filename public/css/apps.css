@@ -1,0 +1,49 @@
+#uul li{
+    list-style-type:none;
+    position: relative;
+    padding-left: 11px;
+}
+
+#uul{
+    display: flex;
+    margin: 0 0 0 -0.8125em;
+}
+
+#lgn{
+    display: flex;
+    margin: 0 0 0 -0.8125em;
+}
+
+#lgn li{
+    list-style-type:none;
+    position: relative;
+    padding-left: 11px;
+}
+
+#row{
+    margin-top:5px;
+}
+
+#meenu li{
+    font-size:19px;
+}
+
+.navbar-brand{
+    font-size: 22px;
+}
+
+.i{
+    color:grey;
+}
+
+#iimg:hover{
+
+    margin-left: 15px;
+}
+
+#slt{
+    width:200px;
+    height:30px;
+    border-radius:0%;
+}
+
